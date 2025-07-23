@@ -34,3 +34,12 @@ Try the app locally or deploy it with tools like **Streamlit Sharing**, **Render
 - XGBoost (Extreme Gradient Boosting)
 - Feedforward Neural Network (FFNN)
 - Ensemble Voting Classifier
+<img width="1920" height="1024" alt="Screenshot (158)" src="https://github.com/user-attachments/assets/fc1ba158-afab-4d86-a367-183e0d683c9d" />
+
+<img width="1920" height="1017" alt="image" src="https://github.com/user-attachments/assets/1a130765-daad-4175-8a95-004ea546ab3a" />
+
+<img width="1920" height="972" alt="image" src="https://github.com/user-attachments/assets/8aa05291-2f18-4901-b1ba-b5cf9145b18f" />
+
+<img width="1920" height="952" alt="image" src="https://github.com/user-attachments/assets/448415c6-1a86-46a9-944e-bff4b60ac903" />
+
+<img width="1920" height="938" alt="image" src="https://github.com/user-attachments/assets/3d50e86b-23da-4449-aa64-0e6bd1f2e794" />
